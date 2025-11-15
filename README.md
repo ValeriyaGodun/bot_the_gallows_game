@@ -5,6 +5,10 @@
 
 ***Примечание:*** *бот может быть не доступен в определенный момент, так как используется бесплатный тариф на платформе PythonAnywhere, попробуйте запустить его снова немного позднее.*
 
+## Пример работы 
+
+<img width="463" height="827" alt="image" src="https://github.com/user-attachments/assets/db1353d7-31e9-4796-8fd8-312e14be7238" />
+
 ## Запуск 
 
 1. Установите зависимости:
@@ -37,9 +41,7 @@ https://github.com/Harrix/Russian-Nouns/blob/main/dist/russian_nouns.txt
 
 После победы или поражения бот задаёт вопрос «Хотите сыграть ещё раз?», ожидая ответ `да` или `нет`, чтобы продолжить игру или ее завершить.
 
-## Пример работы 
 
-<img width="463" height="827" alt="image" src="https://github.com/user-attachments/assets/db1353d7-31e9-4796-8fd8-312e14be7238" />
 
 
 
